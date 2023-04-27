@@ -3,4 +3,4 @@
 #>> cd client
 #>> yarn
 #>> yarn start
-#(runs on localhost:3000)
+#(runs on localhost:3000).
