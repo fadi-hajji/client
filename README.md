@@ -1,8 +1,8 @@
-# client side
+ client side
 
-#>> cd client
+>> cd client
 
-#>> yarn
+>> yarn
 
-#>> yarn start
-#(runs on localhost:3000).
+>> yarn start
+(runs on localhost:3000).
